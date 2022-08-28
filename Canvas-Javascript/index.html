@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Bouncing Ball</title>
+    <script src="script.js" defer></script>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+            position: relative;
+            border: 1px solid black;
+        }
+
+        canvas {
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0.5;
+            cursor: none;
+        }
+
+        #wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+        }
+
+        h1 {
+            color: white;
+            font-size: 2.5rem;
+            width: 60%;
+            padding-left: 3rem;
+        }
+
+        h2 {
+            color: darkslategrey;
+            font-weight: bold;
+            font-size: 2rem;
+            background-color: white;
+            opacity: 0.5;
+            margin-top: 10%;
+            padding: 20px;
+            width: 30%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 5px;
+
+        }
+
+        p {
+            color: darkslategrey;
+            font-weight: bold;
+            font-size: 1rem;
+            background-color: white;
+            opacity: 0.5;
+            padding: 20px;
+            border-radius: 5px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        button {
+            margin-left: auto;
+            margin-right: auto;
+            width: 12%;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: deeppink;
+            color: white;
+            margin-top: 1rem;
+        }
+
+        @media screen and (max-width: 800px) {
+            h1 {
+                font-size: 2rem;
+                width: 60%;
+            }
+
+            h2 {
+                font-size: 1rem;
+                margin-top: 19%;
+                width: 30%;
+            }
+
+            p {
+                font-size: 0.8rem;
+            }
+
+            button {
+                width: 14%;
+                margin-top: 1rem;
+            }
+        }
+
+        @media screen and (max-width: 656px) {
+            h1 {
+                font-size: 1.5rem;
+                width: 60%;
+            }
+
+            h2 {
+                font-size: 0.8rem;
+                margin-top: 19%;
+                width: 30%;
+            }
+
+            p {
+                font-size: 0.5rem;
+            }
+
+            button {
+                width: 15%;
+                height: 3%;
+                margin-top: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="myCanvas" width="1024" height="768"></canvas>
+    <div id="wrapper">
+        <h1>WELCOME TO MY PROFILE</h1>
+        <h2>Web Developer/Uix Designer </h2>
+        <p>Html ------> Css ------> Javascript</p>
+        <button>Enter here</button>
+
+    </div>
+
+
+</body>
+
+</html>
