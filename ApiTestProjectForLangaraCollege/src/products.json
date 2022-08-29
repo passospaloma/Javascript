@@ -1,0 +1,97 @@
+{
+    "error": "",
+    "result": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Brigadeiro",
+                "image": "https://s2.glbimg.com/0mnP1UnRjn1aC371SS-8IU9BSWM=/0x0:638x359/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/e/j/Kn1yDXQSeKr4GmAzDXQQ/receita-de-brigadeiro-tradicional.png",
+                "price": 4
+            },
+            {
+                "id": 2,
+                "name": "estrogonoff",
+                "image": "https://melepimenta.com/wp-content/uploads/2020/06/Estrogonofe-frango-Baixa-2.jpg.webp",
+                "price": 10
+            },
+            {
+                "id": 3,
+                "name": "Fried Cassava",
+                "image": "https://1.bp.blogspot.com/-8eiHpKZDYTE/XeAqbYONPkI/AAAAAAAAOvY/YVH5pcB8XTMuuuF55m5ajYUUqznbJr1LQCLcBGAsYHQ/s1600/mandioca-frita.jpg",
+                "price": 15
+            },
+            {
+                "id": 4,
+                "name": "Tapioca",
+                "image": "https://www.sabornamesa.com.br/media/k2/items/cache/d95ac1e7d6d78552526cbaae66d68531_XL.jpg",
+                "price": 12
+            },
+            {
+                "id": 5,
+                "name": "Acaraje",
+                "image": "https://i0.wp.com/showmanebistro.com/wp-content/uploads/2020/09/dbd3b840-acaraje_s_thumb.jpg?fit=1024%2C1024&ssl=1",
+                "price": 25
+            },
+            {
+                "id": 6,
+                "name": "Pao de Queijo",
+                "image": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2020/02/pao-de-queijo-mineiro-de-familia.jpg",
+                "price": 11
+            },
+            {
+                "id": 7,
+                "name": "Bolinho de Bacalhau",
+                "image": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2019/04/bolinho-de-bacalhau-da-palmirinha-1024x576.jpg",
+                "price": 25
+            },
+            {
+                "id": 8,
+                "name": "Pastel",
+                "image": "https://guiadopastel.com.br/wp-content/uploads/2020/04/4-receitas-de-massa-de-pastel-dourado.jpg.webp",
+                "price": 1.5
+            },
+            {
+                "id": 9,
+                "name": "Coxinha de Frango",
+                "image": "https://www.sabornamesa.com.br/media/k2/items/cache/a2d776612246d598c744792a62711a11_XL.jpg",
+                "price": 1.5
+            },
+            {
+                "id": 10,
+                "name": "Açai",
+                "image": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/05/acai.jpg",
+                "price": 6
+            },
+            {
+                "id": 11,
+                "name": "Feijoada",
+                "image": "https://travhost.files.wordpress.com/2015/02/feijoada-national-dish-of-brazil.jpg",
+                "price": 24
+            },
+            {
+                "id": 12,
+                "name": "Moqueca",
+                "image": "https://www.penaestrada.blog.br/wp-content/uploads/2020/12/IMG_9595-768x495.jpg",
+                "price": 30
+            },
+            {
+                "id": 13,
+                "name": "Pamonha",
+                "image": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-pamonha.jpg",
+                "price": 7
+            },
+            {
+                "id": 14,
+                "name": "Pudim de leite",
+                "image": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-pudim.jpg",
+                "price": 10
+            },
+            {
+                "id": 15,
+                "name": "Cuscuz de tapioca",
+                "image": "https://img.cybercook.com.br/receitas/875/cuscuz-de-tapioca-do-nordeste-1-840x480.jpeg?q=75",
+                "price": 5
+            }
+        ]
+    }
+}

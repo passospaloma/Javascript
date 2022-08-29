@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,sCAAyC,CACzC,iBAAkB,CAClB,iBAAkB,CAClB,eAEF","file":"main.67e6cf38.chunk.css","sourcesContent":["body {\n  margin: 0;\n  font-family: 'Segoe UI', Helvetica, Arial;\n  overflow-y: hidden;\n  overflow-x: hidden;\n  overflow: hidden;\n\n}\n\n/* \n  overflow-y: hidden; no vertical scroll\n*/"]}
